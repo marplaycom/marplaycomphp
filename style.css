@@ -1,0 +1,6 @@
+#container{
+  width: 900px;     - ширина
+  height: 200px;    - высота
+  background-color: #25B33f;  - фоновый цвет (можно не задавать)
+  margin-bottom: 10px;    - отступ снизу
+}
